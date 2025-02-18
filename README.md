@@ -21,7 +21,7 @@ MySQL was chosen for this project as it closely aligns with real-world practices
 
 ### Approach/Steps followed 
 
-- Loading data into MySQL, Instagram_dataset.docx consists of syntaxed prompt to fetch the data into the system(Simply copy and paste the same; This is done to streamline the process), by creating 'ig_clone' database. This prompt will create hundreds/thousands of rows along with multiple tables (comments, follows, likes, photo_tags, photos, tag and users) with different attributes each within them.
+- Loading data into MySQL, Instagram_dataset.docx consists of syntaxed prompt to fetch the data into the system(Simply run the same; This is done to streamline the process), by creating 'ig_clone' database. This prompt will create hundreds/thousands of rows along with multiple tables (comments, follows, likes, photo_tags, photos, tag and users) with different attributes each within them.
 
 - To gain a clear understanding of the objectives outlined in this project, a file titled 'Business_Req_Docx_BRD_INSTAGRAM.docx' has been uploaded for reference.(This is a sample dataset and should be considered as such, given its smaller size).
 
