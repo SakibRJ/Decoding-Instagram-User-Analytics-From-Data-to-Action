@@ -1,9 +1,6 @@
-# Decoding-Instagram-User-Analytics-From-Data-to-Action
-
 # Decoding Instagram User Analytics: From Data to Action
 
-
-## Project Description
+### Project Description
 
 This project is aimed at deriving insightful data to significantly influence decisions based on data driven metrics for instagram, in order to grow and enhance the potency of the platform. The Point of view for this project is simple i.e., to use data from the instagram database and analyse the same to reach a potential resolution for some of the key tasks and assignments dedicated for the marketing team which boosts the ability of this platform among the users and in-turn generate and influence revenue based on data for the stakeholders of the platform.
 
